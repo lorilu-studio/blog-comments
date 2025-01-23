@@ -1,2 +1,2 @@
-# comment-gitalk
-Gitalk 评论专用
+# blog-comments
+博客评论仓库
